@@ -1,4 +1,4 @@
-# Sentiment Analysis of Financial News Using NLTK
+# Sentiment Analysis of Financial News Using NLTK.
 In this project, we aim to predict the sentiment of financial news using the Natural Language Toolkit (NLTK), a powerful platform for building Python programs that work with human language data, particularly in statistical natural language processing (NLP).
 
 ## What is NLTK?
